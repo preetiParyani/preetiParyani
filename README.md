@@ -1,7 +1,9 @@
-### Hi there 👋,I'm Preeti a software devloper enhancing her skills everyday.
+### Hi there 👋,I'm Preeti a software developer enhancing her skills everyday.
 
-*🌱 I’m currently learning web development.
-*👩‍💻 My tech stack is HTML, CSS and JS.
+- 🌱 I’m currently learning web development.
+- 👩‍💻 My tech stack is HTML, CSS and JS.
+- 📝 Writer documenting her journey on [Hashnode](https://hashnode.com/@preetiWrites)
+
 
 <!--
 **preetiParyani/preetiParyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
