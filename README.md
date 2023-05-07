@@ -16,8 +16,7 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/preeti-paryani-07a801227/" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LINKEDIN&color=493252&style=for-the-badge&logo=linkedin"/></a> 
 <a href="https://twitter.com/paryani_preeti" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://github.com/marshadkhn/preetiParyani.git" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=INSTAGRAM&color=493252&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+
 
 <!-- <div>
     <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=preetiParyani&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
