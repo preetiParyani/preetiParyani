@@ -8,6 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=preetiParyani&show_icons=true&theme=transparent)](https://github.com/preetiParyani/github-readme-stats)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetiParyani&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetiParyani&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
