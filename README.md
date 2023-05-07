@@ -11,3 +11,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetiParyani&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
+<!--START_SECTION:activity-->
+
