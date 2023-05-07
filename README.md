@@ -4,4 +4,4 @@
 - 👩‍💻 My tech stack is HTML, CSS and JS.
 - 📝 Writer documenting her journey on [Hashnode](https://hashnode.com/@preetiWrites)
 
-[![Preeti's's GitHub stats](https://github-readme-stats.vercel.app/api?username=preetiParyani)](https://github.com/preetiParyani/github-readme-stats) 
+[![Preeti's's GitHub stats](https://github-readme-stats.vercel.app/api?username=preetiParyani&show_icons=true&theme=transparent)](https://github.com/preetiParyani/github-readme-stats) 
