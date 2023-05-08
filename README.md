@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development.
 - 👩‍💻 My tech stack is HTML, CSS and JS.
 - 📝 Writer documenting her journey on [Hashnode](https://hashnode.com/@preetiWrites)
-<p align="left" > <img  src="https://komarev.com/ghpvc/?username=marshadkhn&label=Profile%20views&color=0e75b6&style=flat" alt="preetiParyani" /> </p>
+<p align="left" > <img  src="https://komarev.com/ghpvc/?username=preetiParyani&label=Profile%20views&color=0e75b6&style=flat" alt="preetiParyani" /> </p>
 <div>
 <a href="https://github.com/preetiParyani/github-readme-stats">
   <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=preetiParyani&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
