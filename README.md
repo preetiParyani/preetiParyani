@@ -1,3 +1,4 @@
+
 ### Hi there 👋,I'm Preeti a software developer enhancing her skills everyday.
 
 - 🌱 I’m currently strengthing my roots in frontend web development.
@@ -5,6 +6,7 @@
 - 👩‍💻 My tech stack is HTML, CSS and JS.
 - 📝 Writer documenting her journey on [Hashnode](https://hashnode.com/@preetiWrites)
  
+<img width="30%" align='right' src="[https://pixabay.com/vectors/absorbed-book-girl-reading-student-2409314/]">
 
 <a href="https://github.com/preetiParyani/github-readme-stats">
   <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=preetiParyani&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
