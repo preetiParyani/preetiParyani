@@ -1,0 +1,21 @@
+name: Update README with GitHub activity
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: preetiParyani
+          template: classic
+          base: header, activity, community, repositories
