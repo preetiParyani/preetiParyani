@@ -23,6 +23,11 @@
 ## Here are some of my blogs📑:
   - [Does networking work, Is it worth?](https://preetiwrites.hashnode.dev/does-networking-work-is-it-worth)  
   - [Blog!?](https://preetiwrites.hashnode.dev/blog)
+ 
+ [![Preeti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=preetiParyani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetiParyani&theme=dark" alt="devarshishimpi" /></p>
+
 
 
 <!-- <div>
