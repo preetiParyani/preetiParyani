@@ -28,8 +28,6 @@
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetiParyani&theme=dark" alt="devarshishimpi" /></p>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
 <!-- <div>
