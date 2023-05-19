@@ -6,7 +6,8 @@
 - 👩‍💻 My tech stack is HTML, CSS and JS.
 - 📝 Writer documenting her journey on [Hashnode](https://hashnode.com/@preetiWrites)
  
-<img width="30%" align='right' src="images/worker.png">
+<img title="a title" alt="Alt text" src="/images/worker.png">
+
 
 <!-- <a href="https://github.com/preetiParyani/github-readme-stats">
   <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=preetiParyani&theme=github_dark&show_icons=true)](https://github.com/preetiParyani/github-readme-stats)" />
@@ -26,7 +27,7 @@
  
  [![Preeti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=preetiParyani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetiParyani&theme=dark" alt="devarshishimpi" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetiParyani&theme=dark" alt="preeti's streak" /></p>
 
 
 
