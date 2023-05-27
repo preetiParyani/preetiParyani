@@ -1,5 +1,4 @@
-<img title="a title" alt="Alt text" src="/images/banner.png">
-
+<a href="https://twitter.com/paryani_preeti" target="_blank"><img src="/images/banner.png" /></a>
 
 ### Hi there 👋,I'm Preeti a software developer enhancing her skills everyday.
 
