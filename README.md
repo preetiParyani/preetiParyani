@@ -1,3 +1,5 @@
+<img title="a title" alt="Alt text" src="/images/banner.png">
+
 
 ### Hi there 👋,I'm Preeti a software developer enhancing her skills everyday.
 
@@ -6,7 +8,7 @@
 - 👩‍💻 My tech stack is HTML, CSS and JS.
 - 📝 Writer documenting her journey on [Hashnode](https://hashnode.com/@preetiWrites)
  
-<img title="a title" alt="Alt text" src="/images/worker.png">
+
 
 
 <!-- <a href="https://github.com/preetiParyani/github-readme-stats">
