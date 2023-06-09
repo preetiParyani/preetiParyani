@@ -1,4 +1,4 @@
-<a href="https://twitter.com/paryani_preeti" target="_blank"><img src="/images/banner.png" /></a>
+<img src="/images/banner.png">
 
 ### Hi there 👋,I'm Preeti a software developer enhancing her skills everyday.
 
