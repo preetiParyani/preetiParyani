@@ -1,4 +1,4 @@
-<img src="/images/banner.png">
+<img src="/images/bgCover.jpg">
 
 ### Hi there 👋,I'm Preeti a software developer enhancing her skills everyday.
 
